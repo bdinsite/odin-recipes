@@ -1,5 +1,6 @@
 body {
     font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(155, 167, 167);
 }
 h1, h2, h3 {
     color: maroon;
@@ -10,4 +11,14 @@ a {
 }
 ul {
     list-style-type: square;
+}
+img {
+    width: 100%;
+    display: block;
+}
+.frame {
+    background-color: azure;
+    max-width: 800px;
+    margin: 50px 50px;
+    padding: 10px 30px;
 }
